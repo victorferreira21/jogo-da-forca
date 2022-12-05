@@ -23,7 +23,7 @@ void anothergame();
 void resetgame();
 void printstage(char mode);
 void howtoplay();
-void credit();
+void creditos();
 int randomNumber(int max_number);
 
 //Declare global variables
@@ -73,10 +73,10 @@ int main()
             howtoplay();
             break;
         case 5 :
-            credit();
+            creditos();
             break;
         case 6 :
-            exit(1);    //Exit game
+            sair(1);    //Exit game
     }
 }
 
