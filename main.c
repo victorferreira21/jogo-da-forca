@@ -32,7 +32,7 @@ int cursor = 1, i, j, len, error = 0;
 char guessword[200], currentword[200], ans;
 
 //Sets a directory for the word database
-char dbdir[5000] = "lista.txt";
+char dbdir[5000] = "worldlist.txt";
 
 int main()
 {
