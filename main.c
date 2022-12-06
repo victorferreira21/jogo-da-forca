@@ -95,58 +95,58 @@ void mainmenu(int i)
     switch(i)
     {
         case 1 :
-            printf("\n\t\t\tWelcome to Hangman\n");
-            printf("\n\t\t\t[*] Singleplayer");
-            printf("\n\t\t\t[] Multiplayer");
-            printf("\n\t\t\t[] Battle Mode");
-            printf("\n\t\t\t[] How to Play");
-            printf("\n\t\t\t[] Credit");
-            printf("\n\t\t\t[] Exit");
+            printf("\n\t\t\tBem vindo ao jogo da Forca\n");
+            printf("\n\t\t\t[*] Um Jogador");
+            printf("\n\t\t\t[] Dois Jogadores");
+            printf("\n\t\t\t[] Batalha");
+            printf("\n\t\t\t[] Como se Joga");
+            printf("\n\t\t\t[] Creditos");
+            printf("\n\t\t\t[] Sair");
             break;
         case 2 :
-            printf("\n\t\t\tWelcome to Hangman\n");
-            printf("\n\t\t\t[] Singleplayer");
-            printf("\n\t\t\t[*] Multiplayer");
-            printf("\n\t\t\t[] Battle Mode");
-            printf("\n\t\t\t[] How to Play");
-            printf("\n\t\t\t[] Credit");
-            printf("\n\t\t\t[] Exit");
+            printf("\n\t\t\tBem vindo ao jogo da Forca\n");
+            printf("\n\t\t\t[*] Um Jogador");
+            printf("\n\t\t\t[] Dois Jogadores");
+            printf("\n\t\t\t[] Batalha");
+            printf("\n\t\t\t[] Como se Joga");
+            printf("\n\t\t\t[] Creditos");
+            printf("\n\t\t\t[] Sair");
             break;
         case 3 :
-            printf("\n\t\t\tWelcome to Hangman\n");
-            printf("\n\t\t\t[] Singleplayer");
-            printf("\n\t\t\t[] Multiplayer");
-            printf("\n\t\t\t[*] Battle Mode");
-            printf("\n\t\t\t[] How to Play");
-            printf("\n\t\t\t[] Credit");
-            printf("\n\t\t\t[] Exit");
+           printf("\n\t\t\tBem vindo ao jogo da Forca\n");
+            printf("\n\t\t\t[*] Um Jogador");
+            printf("\n\t\t\t[] Dois Jogadores");
+            printf("\n\t\t\t[] Batalha");
+            printf("\n\t\t\t[] Como se Joga");
+            printf("\n\t\t\t[] Creditos");
+            printf("\n\t\t\t[] Sair");
             break;
         case 4 :
-            printf("\n\t\t\tWelcome to Hangman\n");
-            printf("\n\t\t\t[] Singleplayer");
-            printf("\n\t\t\t[] Multiplayer");
-            printf("\n\t\t\t[] Battle Mode");
-            printf("\n\t\t\t[*] How to Play");
-            printf("\n\t\t\t[] Credit");
-            printf("\n\t\t\t[] Exit");
+            printf("\n\t\t\tBem vindo ao jogo da Forca\n");
+            printf("\n\t\t\t[*] Um Jogador");
+            printf("\n\t\t\t[] Dois Jogadores");
+            printf("\n\t\t\t[] Batalha");
+            printf("\n\t\t\t[] Como se Joga");
+            printf("\n\t\t\t[] Creditos");
+            printf("\n\t\t\t[] Sair");
             break;
         case 5 :
-            printf("\n\t\t\tWelcome to Hangman\n");
-            printf("\n\t\t\t[] Singleplayer");
-            printf("\n\t\t\t[] Multiplayer");
-            printf("\n\t\t\t[] Battle Mode");
-            printf("\n\t\t\t[] How to Play");
-            printf("\n\t\t\t[*] Credit");
-            printf("\n\t\t\t[] Exit");
+            printf("\n\t\t\tBem vindo ao jogo da Forca\n");
+            printf("\n\t\t\t[*] Um Jogador");
+            printf("\n\t\t\t[] Dois Jogadores");
+            printf("\n\t\t\t[] Batalha");
+            printf("\n\t\t\t[] Como se Joga");
+            printf("\n\t\t\t[] Creditos");
+            printf("\n\t\t\t[] Sair");
             break;
         case 6 :
-            printf("\n\t\t\tWelcome to Hangman\n");
-            printf("\n\t\t\t[] Singleplayer");
-            printf("\n\t\t\t[] Multiplayer");
-            printf("\n\t\t\t[] Battle Mode");
-            printf("\n\t\t\t[] How to Play");
-            printf("\n\t\t\t[] Credit");
-            printf("\n\t\t\t[*] Exit");
+            printf("\n\t\t\tBem vindo ao jogo da Forca\n");
+            printf("\n\t\t\t[*] Um Jogador");
+            printf("\n\t\t\t[] Dois Jogadores");
+            printf("\n\t\t\t[] Batalha");
+            printf("\n\t\t\t[] Como se Joga");
+            printf("\n\t\t\t[] Creditos");
+            printf("\n\t\t\t[] Sair");
 
         
         default :
